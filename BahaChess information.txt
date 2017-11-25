@@ -1,0 +1,36 @@
+/********************************************
+
+                   Baha Chess
+              Created by Darren Bahadoor
+            Created for educational purposes 
+
+********************************************/
+Note: The methods used to for this current chess program is NOT as efficient as I would like it to be. There is a Baha Chess version 2 that is currently being developed. Baha Chess v2 will utilize object oriented programming in the more traditional way to create a more memory efficient program. Nonetheless, enjoy the program!  
+
+Goal : Create a two player chess game using java.
+
+Completed : 
+-Rendering chess board
+-rendering chess pieces
+-Queen, Pawn, Knight, Rook, and Bishop movement
+-Collision in between moving pieces
+-Detection for enemy pieces(used to remove the piece)
+
+Todo : 
+*Programming list
+-Clean up code
+-Add Comments
+-Remove system.out debug lines
+
+*Chess list
+- Add en passant
+- Add castling
+- Check & Checkmate
+- Two player system using enums
+- Remove pieces once landed on
+
+Bugs fixed : 
+[+]Fixed a bug where  moving the JFrame would change the DX mouse input when dragging pieces. 
+
+Bugs : None at the moment
+
